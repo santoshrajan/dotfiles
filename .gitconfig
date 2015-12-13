@@ -1,0 +1,9 @@
+[user]
+	name = Santosh Rajan
+	email = santrajan@gmail.com
+
+[github]
+    user = santoshrajan
+
+[core]
+    excludesfile = ~/.gitignore_global
